@@ -3,7 +3,7 @@ body {
   justify-content: center;
 }
 
-.mySpan {
+ .mySpan {
   /* 外间距 */
   /* margin: 5px 0; */
   /* 内间距 */
@@ -17,7 +17,7 @@ body {
   /* 鼠标手样式 */
   cursor: pointer;
 
-}
+} 
 
 img {
   display: inline;
@@ -37,8 +37,8 @@ header {
 }
 
 ul {
-  /* list-style: none; */
-  /* list-style-type: square; */
+   /* list-style: none; 
+   list-style-type: square;  */
   list-style-image: url("./award-fill.svg");
 }
 
@@ -75,6 +75,15 @@ td {
 
 .table-blue {
   background-color: lightblue;
+}
+
+.td-red{
+  background-color: red;
+  color: white;
+}
+
+.td-orange{
+  background-color: orange;
 }
 
 thead th {
