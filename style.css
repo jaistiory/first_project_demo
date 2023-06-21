@@ -1,29 +1,30 @@
 span{
-  color: rgb(15, 206, 143);
-}
-
-h2{
-  color: chartreuse;
-}
-
-body{
-display: flex;
-justify-content: center;
-align-items: center;
-flex-direction:column;
-}
-
-#second_h2{
-  color: blueviolet;
-}
-
-.group1{
-  color: tomato;
-}
-
-.group2{
-  color: darkseagreen;
-}
-
-
-
+    color: rgb(15, 206, 143);
+  }
+  
+  h2{
+    color: chartreuse;
+  }
+  
+  body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction:column;
+  }
+  
+  #second_h2{
+    color: blueviolet;
+  }
+  
+  .group1{
+    color: tomato;
+  }
+  
+  .group2{
+    color: darkseagreen;
+  }
+  
+  
+  
+  
